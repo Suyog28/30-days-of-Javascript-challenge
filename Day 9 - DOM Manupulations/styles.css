@@ -1,0 +1,12 @@
+.newClass {
+    background-color: yellow;
+    border: 2px solid black ;
+}
+.oldClass {
+    color: red;
+    
+}
+
+.changeBorderColor {
+    border: 2px solid blue;
+}
